@@ -59,3 +59,4 @@
   composer require sonata-project/cache
   composer require laravel/scout
   composer require fzaninotto/faker
+  https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about
