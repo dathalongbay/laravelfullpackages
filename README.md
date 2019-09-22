@@ -12,3 +12,4 @@
 - composer require  pusher/pusher-php-server
 - composer require predis/predis
 - composer require mongodb/mongodb
+- composer require monolog/monolog
