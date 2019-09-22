@@ -37,6 +37,13 @@
   composer require facebook/graph-sdk
   composer require laravel/slack-notification-channel
   composer require phpmailer/phpmailer
+  composer require laravel/socialite
+  composer require pusher/pusher-php-server
+  composer require tymon/jwt-auth
+  composer require mongodb/mongodb
+  composer require mpdf/mpdf
+  composer require barryvdh/laravel-dompdf
+  composer require ruflin/elastica
   
   
   
