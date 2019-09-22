@@ -36,6 +36,7 @@
   composer require imagine/imagine
   composer require facebook/graph-sdk
   composer require laravel/slack-notification-channel
+  composer require phpmailer/phpmailer
   
   
   
