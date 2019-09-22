@@ -15,3 +15,28 @@
 - composer require monolog/monolog
 - composer require phpunit/phpunit
 - lumen fw
+ - composer require psr/cache
+ - composer require aws/aws-sdk-php
+ - composer require symfony/dom-crawler
+- composer require firebase/php-jwt
+- composer require lcobucci/jwt
+- composer require guzzlehttp/streams
+ - composer require phpoffice/phpspreadsheet
+  - composer require pimple/pimple
+  composer require phpoffice/phpexcel
+  composer require mobiledetect/mobiledetectlib
+  composer require guzzlehttp/guzzle
+  composer require dompdf/dompdf
+  composer require stripe/stripe-php
+  composer require barryvdh/laravel-debugbar
+  composer require php-http/curl-client
+  composer require google/recaptcha
+  composer require laravel/passport
+  composer require cocur/slugify
+  composer require imagine/imagine
+  composer require facebook/graph-sdk
+  composer require laravel/slack-notification-channel
+  
+  
+  
+  
