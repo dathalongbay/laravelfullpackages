@@ -44,6 +44,7 @@
   composer require mpdf/mpdf
   composer require barryvdh/laravel-dompdf
   composer require ruflin/elastica
+  composer require spatie/laravel-permission
   
   
   
