@@ -60,3 +60,4 @@
   composer require laravel/scout
   composer require fzaninotto/faker
   https://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about
+  https://medium.com/issuehunt/50-most-popular-php-projects-on-github-c8cf6a242eb9
