@@ -50,5 +50,5 @@
   composer require illuminate/cache
   composer require illuminate/validation
   composer require illuminate/pagination
-  
+  composer require illuminate/queue
   
