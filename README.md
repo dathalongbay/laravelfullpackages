@@ -51,4 +51,11 @@
   composer require illuminate/validation
   composer require illuminate/pagination
   composer require illuminate/queue
-  
+  composer require spatie/image-optimizer
+  composer require laravel/dusk
+  composer require mailgun/mailgun-php
+  composer require spatie/image
+  composer require laravel/telescope
+  composer require sonata-project/cache
+  composer require laravel/scout
+  composer require fzaninotto/faker
