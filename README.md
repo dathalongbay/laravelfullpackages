@@ -45,7 +45,10 @@
   composer require barryvdh/laravel-dompdf
   composer require ruflin/elastica
   composer require spatie/laravel-permission
-  
-  
+  composer require laravel/horizon
+  composer require google/cloud-storage
+  composer require illuminate/cache
+  composer require illuminate/validation
+  composer require illuminate/pagination
   
   
