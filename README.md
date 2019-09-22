@@ -13,3 +13,5 @@
 - composer require predis/predis
 - composer require mongodb/mongodb
 - composer require monolog/monolog
+- composer require phpunit/phpunit
+- lumen fw
