@@ -8,3 +8,7 @@
 - composer require phpoffice/phpexcel
 - composer require silverstripe/postgresql
 - composer require barryvdh/laravel-debugbar --dev
+- https://codebriefly.com/laravel-5-6-debugging-dump-dd-functions/
+- composer require  pusher/pusher-php-server
+- composer require predis/predis
+- composer require mongodb/mongodb
